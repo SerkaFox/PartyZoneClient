@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/qml/main.qml</file>
+        <file>res/qml/LoginForm.qml</file>
+        <file>res/img/StartMenu/login_background.jpg</file>
+        <file>res/img/StartMenu/login_button.png</file>
+        <file>res/img/StartMenu/login_button_pressed.png</file>
+        <file>res/img/StartMenu/signup_button.png</file>
+        <file>res/img/StartMenu/signup_button_pressed.png</file>
+        <file>res/qml/MainForm.qml</file>
+        <file>res/img/MainMenu/background.jpg</file>
+        <file>res/img/StartMenu/donate_button.png</file>
+        <file>res/img/StartMenu/donate_button_pressed.png</file>
+        <file>res/img/StartMenu/discord_button.png</file>
+        <file>res/img/StartMenu/discord_button_pressed.png</file>
+        <file>res/img/StartMenu/twitch_button.png</file>
+        <file>res/img/StartMenu/twitch_button_pressed.png</file>
+        <file>res/img/StartMenu/youtube_button.png</file>
+        <file>res/img/StartMenu/youtube_button_pressed.png</file>
+        <file>res/img/MainMenu/order_button.png</file>
+        <file>res/img/MainMenu/order_button_pressed.png</file>
+        <file>res/qml/GameWindow.qml</file>
+        <file>res/img/MainMenu/window_offline.png</file>
+        <file>res/img/MainMenu/window_online.png</file>
+        <file>res/img/MainMenu/cloud_button.png</file>
+        <file>res/img/MainMenu/cloud_button_disabled.png</file>
+        <file>res/img/MainMenu/cloud_button_pressed.png</file>
+        <file>res/qml/Constants.qml</file>
+        <file>res/qml/qmldir</file>
+        <file>res/qml/PictureButton.qml</file>
+        <file>res/qml/GameButton.qml</file>
+        <file>res/img/party.ico</file>
+        <file>res/img/keys.jpeg</file>
+        <file>res/qml/KeysDialog.qml</file>
+    </qresource>
+</RCC>
